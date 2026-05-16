@@ -29,7 +29,7 @@
 &mt { quick_tap_ms = <200>; };
 
 / {
-    behaviours {
+    behaviors {
         hml: hml {
             compatible = "zmk,behavior-hold-tap";
             label = "HML";
